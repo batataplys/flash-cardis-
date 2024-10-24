@@ -1,12 +1,12 @@
 criaCartao(
-    'Programação 2.0',
-    'O que é python?',
-    'O python é uma linguagem de programação'
+    'História',
+    'Quem foi o primeiro presidente do Brasil?',
+    'O primeiro presidente do brasil foi Deodoro da Fonseca'
   )
   criaCartao(
-    'Gatos',
-    'O que é um gato?',
-    'O gato é um mamífero carnívoro da família dos felídeos, muito popular como animal de estimação'
+    'Animes',
+    'O que é um stand?',
+    'O stand é uma manifestação física da energia vital de seu usuário'
   )
   criaCartao(
     'HTML',
@@ -29,7 +29,7 @@ criaCartao(
     'A função do coração é bombear o sangue para todo o corpo.'
   )
   criaCartao(
-    'Mitocondria',
-    'Para que serve a Mitocondria?',
-    'As mitocôndrias funcionam como um sítio do processo de respiração celular'
+    'Programação',
+    'O que é HTML?',
+    'O HTML é uma linguagem de marcação de hipertexto'
   )
