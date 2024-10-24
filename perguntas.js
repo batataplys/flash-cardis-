@@ -1,32 +1,32 @@
 criaCartao(
     'História',
     'Quem foi o primeiro presidente do Brasil?',
-    'O primeiro presidente do brasil foi Deodoro da Fonseca'
+    'O primeiro presidente do brasil foi Deodoro da Fonseca.'
   )
   criaCartao(
     'Animes',
     'O que é um stand?',
-    'O stand é uma manifestação física da energia vital de seu usuário'
+    'O stand é uma manifestação física da energia vital de seu usuário.'
   )
   criaCartao(
     'HTML',
     'O que é HTML?',
-    'O HTML é uma linguagem de marcação de hipertexto'
+    'O HTML é uma linguagem de marcação de hipertexto.'
   )
   criaCartao(
-    'Astronomia',
-    'O que é a astronomia?',
-    'A astronomia é a ciência que estuda os corpos celestes (planetas, asteroides, cometas, estrelas, galáxias, etc.)'
+    'Ciências',
+    'O que é petróleo?',
+    'O petróleo é um combustível fóssil que é composto principalmente por hidrocarbonetos.'
   )
   criaCartao(
-    'Olho',
-    'Qual a função do olho?',
-    'O olho ajusta constantemente a quantidade de luz que deixa entrar, e gera imagens contínuas que são transmitidas ao cérebro de forma instantânea.'
+    'Conhecimentos Gerais',
+    'Qual o meio de transporte mais seguro do mundo?',
+    'o meio de transporte mais seguro do mundo é o elevador.'
   )
   criaCartao(
-    'Coração',
-    'Qual a função do coraçao?',
-    'A função do coração é bombear o sangue para todo o corpo.'
+    'Biologia',
+    'Para que serve o coraçao?',
+    'A função do coração é bombear o sangue.'
   )
   criaCartao(
     'Programação',
